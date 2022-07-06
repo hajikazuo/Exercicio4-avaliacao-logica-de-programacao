@@ -10,6 +10,7 @@ namespace Exercicio4_avaliacao_logica_de_programacao
     {
         static void Main(string[] args)
         {
+            //Nilton Kazuo Hasegawa Haji RA:6322507
             //Utilizando estrutura FOR, escrever um programa para exibir os números de 1 até 50 na tela.
 
 
